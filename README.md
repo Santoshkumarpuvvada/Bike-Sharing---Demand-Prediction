@@ -11,3 +11,10 @@ They have contracted a consulting company to understand the factors on which the
 
 # Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
+# Methodology:
+First EDA was performed to understand the data & then Linear Regression was chosen for the analysis. Regression was chosen because the major business objective was to understand the factors influencing the demand rather than just demand prediction. Linear Regression has the best interpretability & hence it can deliver the required results
+
+# Results & Recommendations:
+Adjusted R2 of the final model developed was 81.1% & 79.3% on the test & train data. This is pretty much in an aceptable range in real time situatuations. All the assumptions of Linear Regression were also checked & found to be satisfied. 
+
