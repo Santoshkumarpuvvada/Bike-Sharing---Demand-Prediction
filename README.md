@@ -22,5 +22,5 @@ Inferences: Features impacting the bike demand are found to be
 1) Clear, Few clouds, Partly cloudy, Partly cloudy days are best for bikes demand. Mist is bad & Light snow is worse & Heavy snow means zero bikes demand.
 2) Year 2 has much higher demand than year 1. Looks like there is positive trend in terms of business growth(however 2 years is too small for commenting on trend)
 3) Spring season is very bad compared to fall season for bikes demand
-4) Higher Temperature is better for are found to be  good bikes demand
+4) Higher Temperature is better for good bikes demand
 5) Features like holidays impact demand negatively
